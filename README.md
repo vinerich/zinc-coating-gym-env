@@ -3,4 +3,7 @@
 ### Getting Started
 
 This repository can be pip-installed via:
-`pip install git+https://github.com/vinerich/zinc-coating-gym-env`
+
+```bash
+pip install git+https://github.com/vinerich/zinc-coating-gym-env
+```
