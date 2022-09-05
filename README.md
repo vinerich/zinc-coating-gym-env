@@ -5,5 +5,5 @@
 This repository can be pip-installed via:
 
 ```bash
-pip install git+https://github.com/vinerich/zinc-coating-gym-env
+pip install git+https://github.com/vinerich/zinc-coating-gym-env.git
 ```
